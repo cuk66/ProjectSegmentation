@@ -1,5 +1,5 @@
 # Liver segmentation in computed tomography images
-This project is a study of methods of automatic liver segmentation on CT images using the convolutional neural network UNet. The main goal is to improve the accuracy and efficiency of the segmentation process, which is traditionally performed manually and requires significant time and professional resources. Within the framework of the project, the stages of data collection and preprocessing, model training and evaluation of its accuracy were carried out.
+This project is an investigation of methods for automatic liver segmentation on CT images using the convolutional neural network UNet. The main goal is to improve the accuracy and efficiency of the segmentation process, which is traditionally performed manually and requires significant time and professional resources. Within the framework of the project, the stages of data collection and preprocessing, model training and evaluation of its accuracy were carried out.
 
 ## Installation
 Clone the repository
